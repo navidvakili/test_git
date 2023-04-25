@@ -9,7 +9,9 @@
 </head>
 
 <body>
-    <form action=""></form>
+    <form action="">
+        <input type="text">username
+    </form>
 </body>
 
 </html>
